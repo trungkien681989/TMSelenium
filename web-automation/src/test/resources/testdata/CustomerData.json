@@ -1,0 +1,8 @@
+{
+  "emptyIDNumber": "",
+  "emptyPassword": "",
+  "invalidIDNumber": "1234567890123",
+  "invalidPassword": "ABc123@#4",
+  "idNumberLessThan13": "123456789012",
+  "idNumberContainsChars": "1A B2Cx y3z!@4 #5"
+}
